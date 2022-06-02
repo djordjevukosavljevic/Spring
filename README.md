@@ -1,2 +1,3 @@
-# Spring
-Some of mine newest student Spring projects in Eclipse
+#This is just some of my latests tasks...
+# I will add more and more as the time goes by,
+# ofcourse, OOP that I already did and some of my databases.
