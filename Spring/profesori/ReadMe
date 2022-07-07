@@ -1,0 +1,3 @@
+In this project you gotta create(H2 database) 2 tables and 1 relationship table between those 2,
+first one "Professor" and second one "Subject", with same variables as variables from Entities Classes from both tables. After
+that, you should be able to send requests over client(Postman) and get legit repsones.
